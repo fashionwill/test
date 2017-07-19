@@ -13,5 +13,6 @@
 //remark
 echo "ddd";
 $user = array('name' =>'xiaoming' ,'sex'=>1 );
+print_r($user);
 ?>
 
