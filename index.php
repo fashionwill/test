@@ -13,4 +13,5 @@
 //remark
 echo "ddd";
 $user = array('name' =>'xiaoming' ,'sex'=>1 );
+?>
 
